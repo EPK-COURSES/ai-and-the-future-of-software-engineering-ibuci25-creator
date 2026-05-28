@@ -2,8 +2,8 @@ Epoka University
 Subject: Introduction to Software Engineering.  
 Class: SWE 1C
 
-##“Real Industry Case Studies”  
-###Igli Buci
+## “Real Industry Case Studies”  
+### Igli Buci
 
   June 1, 2026
 
