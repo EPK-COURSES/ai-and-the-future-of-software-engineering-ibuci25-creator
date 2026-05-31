@@ -20,7 +20,7 @@ AI in software development has moved beyond theory and now delivers real busines
 
 ## Main Findings
 
-**Case Study 1:** Accelerating AI Development with GitHub Copilot: Real-World Use-Cases
+## Case Study 1: Accelerating AI Development with GitHub Copilot: Real-World Use-Cases
 
 In recent years Microsoft teams have been trying to use AI to improve the productivity of their engineers. The goal was to integrate GitHub in the workflow of their teams in order to speed up tasks such as documentation, code generation, or other basic and repetitive tasks, showing the benefits and the challenges encountered.
 
@@ -34,7 +34,7 @@ In recent years Microsoft teams have been trying to use AI to improve the produc
 Be more specific with the desired results of your diagram. Copilot did much better when it started with an example it could pull from. Some models may only retrieve partial context of each file, while others might read too much—both can result in a subpar result. When reading through the chat logs or output, make sure that Copilot is reading the entire file.  
 The Claude Sonnet 3.7 thinking model worked best for generating class diagrams, while GPT 4o needed more instruction. While the Claude models would be our recommendation for this task, continue to test out other models. As newer models get released, they may be even more advanced at creating visualizations. The choice of starting from a graphical tool like pyreverse versus a text-centric format like Mermaid Markdown may have impacted the results. For example, Mermaid Markdown could provide clearer context for models like Sonnet, potentially improving accuracy. (Microsoft ISE Developer Blog, 2025)
 
-**Case Study 2:** AI in software engineering at Google: Progress and the path ahead
+## Case Study 2: AI in software engineering at Google: Progress and the path ahead
 
 With the development of transformative architecture, researchers began to explore how large language models could be used in software engineering, where the most common applications were those AI-powered ones that complete code with suggestions to improve it, which led to these LLMs being trained directly on the code being written. It is also natural for programmers, as auto-completion has been a feature in IDEs for many years.
 
@@ -61,11 +61,11 @@ Since the main goal is to improve productivity and user satisfaction, it is nece
 
 These principles help organizations successfully move AI ideas from experiments into practical products used in real software development environments. (Chandra \& Tabachnyk, 2024)
 
-**Case Study 3:** Shopify — AI-Assisted Engineering at Scale Background
+## Case Study 3: Shopify — AI-Assisted Engineering at Scale Background
 
 Shopify has integrated AI into the workflow of their engineers, and the company offers engineers access to AI tools, including unlimited AI scalability, large language model systems, and other specialized tools to increase programmers' productivity.
 
-### **How they use AI**
+**How they use AI**
 
 AI is used across the full software development lifecycle:
 
@@ -77,9 +77,7 @@ A fundamental change has occurred in the way employees are hired, where intervie
 By offering engineers strong AI support tools and by building sustainable Shopify tool systems, it has improved the speed of development and productivity for engineers, with benefits being fast development and shipping features, more accurate code generation through internal systems, and reduced 'token waste' through optimized tools.  
 Despite the benefits, there are still significant concerns, mentioning that AI can generate incorrect code, repeat code, or generate outdated code that may have lost API context, or not all engineers will adapt equally well to AI assistants. Shopify treats AI as a collaborator and not as a replacement for engineers, but the developers still need to adapt and be able to plan solutions carefully, break down big problems, and guide AI to help rather than trust it blindly. (Thawar, 2025; Hello Interview, 2026 )
 
-## 
-
-Case Study 4: Duolingo — Going “AI-First”
+## Case Study 4: Duolingo — Going “AI-First”
 
 Duolingo applies AI in various areas such as creating content for language learning materials, generating new language lessons, and supporting the workflows of engineers and developers, where one of the biggest achievements was the publication of 148 courses in different languages created by AI, which expanded their library in a very short time. Engineers are also involved in AI usage, where around 80% of engineers use AI tools in everyday life, and there are trainings and meetings every Friday where AI successes and failures are shared, and these meetings help distribute information across the teams.
 
@@ -91,25 +89,16 @@ Duolingo shows how an “AI-first” strategy can significantly increase product
 
 
 
-\##Cross-Company Analysis
-
-&#x20;
-
+## Cross-Company Analysis
+ 
 | Company | Primary AI Use | Productivity Gain | Key Challenge |
-
 |---|---|---|---|
-
 | Microsoft/GitHub | Code generation, documentation | 55.8% faster coding | Skill atrophy, systemic risks |
-
 | Google | Code completion, migrations, code review | Improved throughput | Amplifies weak practices too |
-
 | Shopify | Code generation, hiring, custom tooling | Faster delivery | Requires engineers who can direct AI |
-
 | Duolingo | Content creation, engineering workflows | 4–5x content output | Communication, contractor reduction |
-
-&#x20;
-
-\---
+ 
+---
 
 ## Conclusion
 
